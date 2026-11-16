@@ -1,4 +1,4 @@
-# DSA Mentor: Your Personalized, AI-Powered Socratic Coding Guide
+# AlgoForge: Your Personalized, AI-Powered Socratic Coding Guide
 
 Welcome to DSA Mentor! This is not just another solution generator. Instead, it is your personal LeetCode and Data Structures & Algorithms (DSA) coach. Driven by an advanced Retrieval-Augmented Generation (RAG) pipeline and a robust agentic architecture, this mentor guides you to the correct answer through Socratic questioning rather than just giving you the code.
 
